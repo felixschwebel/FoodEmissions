@@ -1,5 +1,5 @@
 ﻿Food product,Land Use Change,Feed,Farm,Processing,Transport,Packaging,Retail,Total from Land to Retail,Total Global Average GHG Emissions per kg,Unit of GHG Emissions
-Apples,-0.029,0,0.225,0.004,0.096,0.044,0.017,0.357,0.43,kg CO2e per kg food produced
+Apples,-0.029,0,0.225,0,0.096,0.044,0.017,0.357,0.43,kg CO2e per kg food produced
 Bananas,-0.025,0,0.266,0.059,0.292,0.065,0.021,0.678,0.86,kg CO2e per kg food produced
 Barley,0.009,0,0.176,0.128,0.035,0.497,0.264,1.109,1.18,kg CO2e per kg food produced
 Beef (beef herd),16.278,1.878,39.388,1.269,0.346,0.247,0.164,59.57,99.48,kg CO2e per kg food produced
