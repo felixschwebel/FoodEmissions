@@ -15,7 +15,7 @@ Then I wanted to now which factor contributed the most to the GHG Emissions for 
 <img width="1747" alt="Screenshot 2023-05-25 at 17 29 13" src="https://github.com/felixschwebel/FoodEmissions/assets/111788725/1f876eaa-a450-41d2-beac-4d52fbd42952">
 <img width="1748" alt="Screenshot 2023-05-25 at 17 29 26" src="https://github.com/felixschwebel/FoodEmissions/assets/111788725/86fc63e3-049c-4ae4-91bf-c9ae91bce206">
 
-**What deos this mean for the consumption of beeff and dark chocolate?**
+**What deos this mean for the consumption of beef and dark chocolate?**
 <br></br>
 The products with the lowest Total GHG Emissions are Root Vegetables, Apples, Citrus Fruit and Nuts with around 0,5 per kg. Dark Chocolate and Beef have the highest Total GHG Emissions.
 <br></br>
